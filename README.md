@@ -27,6 +27,6 @@ This is a simple  Javascript based Project to detect pressed keys
  
  ## Contributing
 
-This is a PHP Beginner project you can make a pull request if you see any bug/typo ,or want to add a new feature.
+This is an Html.Javascript and CSS Beginner project you can make a pull request if you see any bug/typo ,or want to add a new feature.
 
  
